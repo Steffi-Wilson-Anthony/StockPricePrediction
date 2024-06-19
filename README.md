@@ -19,4 +19,12 @@
 
 ## Dataset
 - I have used the historical dataset of Amazon stoks downloaded from [yahoo finance](https://finance.yahoo.com/quote/AMZN/history/)
-- You can use a different stock price dataset of your choice
+- You can use a different stock price dataset
+
+## Google Sheets
+- To perform model evaluation I have used google sheets
+- Use GOOGLEFINANCE to load AMZN data (Amazon stock price data: Date and Price) into a blank sheet `Evaluation Sheet`
+- Import data from forcast.csv into a new sheet
+- Copy the yhat column and paste it next to price column in Evaluation Sheet
+- Press `Ctrl+A` and select CHART from INSERT menu
+- You can evaluate the model performance by comparing yhat and price values
