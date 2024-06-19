@@ -28,3 +28,8 @@
 - Copy the yhat column and paste it next to price column in Evaluation Sheet
 - Press `Ctrl+A` and select CHART from INSERT menu
 - You can evaluate the model performance by comparing yhat and price values
+
+![Close and yhat (evaluation)](https://github.com/Steffi-Wilson-Anthony/StockPricePrediction/assets/114890864/ff556d26-2da9-40db-a25d-8f6a7d9393cc)
+
+![yhat](https://github.com/Steffi-Wilson-Anthony/StockPricePrediction/assets/114890864/cfa53708-b2bd-4d98-9d58-bcd7e6973273)
+
