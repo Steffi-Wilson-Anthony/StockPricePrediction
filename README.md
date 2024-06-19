@@ -16,3 +16,7 @@
 ![plot](https://github.com/Steffi-Wilson-Anthony/StockPricePrediction/assets/114890864/7d73e3a2-0a48-4a4b-bc96-a6b43e23aa4d)
 
 ![plot_components](https://github.com/Steffi-Wilson-Anthony/StockPricePrediction/assets/114890864/39e8c148-6d0d-40cf-907c-a81b8469c7d4)
+
+## Dataset
+- I have used the historical dataset of Amazon stoks downloaded from [yahoo finance](https://finance.yahoo.com/quote/AMZN/history/)
+- You can use a different stock price dataset of your choice
